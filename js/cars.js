@@ -23,7 +23,7 @@ function buildCarList(item, index) {
     // Ajouter l'image à la carte
     var figure = document.createElement('figure');
     var img = document.createElement('img');
-    img.src = 'data/' + name + '.png'; 
+    img.src = '../data/' + name + '.png'; 
     img.alt = name;    
     img.classList.add('w-full', 'aspect-video');
     figure.appendChild(img);
