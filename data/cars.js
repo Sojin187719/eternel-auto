@@ -41,7 +41,7 @@ function buildCarList(item, index) {
 
     // Description de la carte
     var description = document.createElement('p');
-    description.textContent = "Prix de vente :  " + price + ' $';
+    description.textContent = "Prix de vente :  " + (price+price*0.30) + ' $';
     cardBody.appendChild(description);
 
     // Actions de la carte
