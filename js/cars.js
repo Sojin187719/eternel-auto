@@ -1,5 +1,5 @@
 // Lire le contenu du fichier JSON
-fetch('../data/cars.json')
+fetch('cars.json')
     .then(response => response.json())
     .then(dataObject => {
         // Traiter les données obtenues
@@ -23,7 +23,7 @@ function buildCarList(item, index) {
     // Ajouter l'image à la carte
     var figure = document.createElement('figure');
     var img = document.createElement('img');
-    img.src = '../data/' + name + '.png'; 
+    img.src = name + '.png'; 
     img.alt = name;    
     img.classList.add('w-full', 'aspect-video');
     figure.appendChild(img);
