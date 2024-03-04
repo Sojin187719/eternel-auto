@@ -1,5 +1,5 @@
 // Lire le contenu du fichier JSON
-fetch('cars.json')
+fetch('https://sojin187719.github.io/eternel-auto/data/cars.json')
     .then(response => response.json())
     .then(dataObject => {
         // Traiter les données obtenues
