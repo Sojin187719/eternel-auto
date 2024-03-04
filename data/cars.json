@@ -1,0 +1,462 @@
+[
+  {
+    "name": "alpha",
+    "price": 62726
+  },
+  {
+    "name": "baller",
+    "price": 20268
+  },
+  {
+    "name": "baller2",
+    "price": 50581
+  },
+  {
+    "name": "baller3",
+    "price": 46695
+  },
+  {
+    "name": "banshee",
+    "price": 807661
+  },
+  {
+    "name": "bestiagts",
+    "price": 51048
+  },
+  {
+    "name": "bjxl",
+    "price": 15324
+  },
+  {
+    "name": "buffalo",
+    "price": 20884
+  },
+  {
+    "name": "buffalo2",
+    "price": 17338
+  },
+  {
+    "name": "calico",
+    "price": 61541
+  },
+  {
+    "name": "carbonizzare",
+    "price": 59807
+  },
+  {
+    "name": "cavalcade",
+    "price": 16568
+  },
+  {
+    "name": "cavalcade2",
+    "price": 18792
+  },
+  {
+    "name": "cogcabrio",
+    "price": 54113
+  },
+  {
+    "name": "comet2",
+    "price": 31065
+  },
+  {
+    "name": "comet3",
+    "price": 33174
+  },
+  {
+    "name": "comet5",
+    "price": 62001
+  },
+  {
+    "name": "contender",
+    "price": 31488
+  },
+  {
+    "name": "coquette", 
+    "price": 56288
+  },
+  {
+    "name": "coquette2", 
+    "price": 29746
+  },
+  {
+    "name": "coquette4", 
+    "price": 721910
+  },
+  {
+    "name": "cypher",
+    "price": 32102
+  },
+  {
+    "name": "deviant",
+    "price": 16883
+  },
+  {
+    "name": "dominator",
+    "price": 60817
+  },
+  {
+    "name": "dominator3",
+    "price": 59028
+  },
+  {
+    "name": "drafter",
+    "price": 55496
+  },
+  {
+    "name": "dubsta",
+    "price": 20524
+  },
+  {
+    "name": "dubsta2",
+    "price": 20776
+  },
+  {
+    "name": "dukes",
+    "price": 31695
+  },
+  {
+    "name": "dynasty",
+    "price": 19104
+  },
+  {
+    "name": "elegy",
+    "price": 29048
+  },
+  {
+    "name": "elegy2",
+    "price": 60978
+  },
+  {
+    "name": "ellie",
+    "price": 33823
+  },
+  {
+    "name": "euros",
+    "price": 48201
+  },
+  {
+    "name": "exemplar",
+    "price": 59565
+  },
+  {
+    "name": "f620",
+    "price": 29494
+  },
+  {
+    "name": "fagaloa",
+    "price": 16972
+  },
+  {
+    "name": "felon",
+    "price": 31102
+  },
+  {
+    "name": "felon2",
+    "price": 29863
+  },
+  {
+    "name": "feltzer2",
+    "price": 29693
+  },
+  {
+    "name": "flashgt",
+    "price": 53292
+  },
+  {
+    "name": "fq2",
+    "price": 17552
+  },
+  {
+    "name": "furoregt",
+    "price": 20762
+  },
+  {
+    "name": "fusilade",
+    "price": 17636
+  },
+  {
+    "name": "gauntlet",
+    "price": 32799
+  },
+  {
+    "name": "gauntlet3",
+    "price": 20130
+  },
+  {
+    "name": "gauntlet4",
+    "price": 61100
+  },
+  {
+    "name": "gresley",
+    "price": 18204
+  },
+  {
+    "name": "growler",
+    "price": 28110
+  },
+  {
+    "name": "gt500",
+    "price": 30716
+  },
+  {
+    "name": "habanero",
+    "price": 18792
+  },
+  {
+    "name": "huntley",
+    "price": 33067
+  },
+  {
+    "name": "impaler",
+    "price": 16738
+  },
+  {
+    "name": "jackal",
+    "price": 32990
+  },
+  {
+    "name": "jugular",
+    "price": 44002
+  },
+  {
+    "name": "khamelion",
+    "price": 15272
+  },
+  {
+    "name": "komoda",
+    "price": 50354
+  },
+  {
+    "name": "kuruma",
+    "price": 58663
+  },
+  {
+    "name": "landstalker",
+    "price": 17136
+  },
+  {
+    "name": "landstalker2",
+    "price": 49740
+  },
+  {
+    "name": "mesa",
+    "price": 14591
+  },
+  {
+    "name": "michelli",
+    "price": 1992
+  },
+  {
+    "name": "neon",
+    "price": 780756
+  },
+  {
+    "name": "ninef",
+    "price": 735808
+  },
+  {
+    "name": "ninef2",
+    "price": 746913
+  },
+  {
+    "name": "novak",
+    "price": 18375
+  },
+  {
+    "name": "oracle",
+    "price": 16926
+  },
+  {
+    "name": "oracle2",
+    "price": 31559
+  },
+  {
+    "name": "patriot",
+    "price": 20625
+  },
+  {
+    "name": "penumbra",
+    "price": 18178
+  },
+  {
+    "name": "penumbra2",
+    "price": 29067
+  },
+  {
+    "name": "radi",
+    "price": 14969
+  },
+  {
+    "name": "raiden",
+    "price": 51625
+  },
+  {
+    "name": "rapidgt",
+    "price": 32567
+  },
+  {
+    "name": "rapidgt2",
+    "price": 28068
+  },
+  {
+    "name": "rebla",
+    "price": 32472
+  },
+  {
+    "name": "revolter",
+    "price": 28265
+  },
+  {
+    "name": "rocoto",
+    "price": 20450
+  },
+  {
+    "name": "rt3000",
+    "price": 30470
+  },
+  {
+    "name": "sabregt",
+    "price": 17734
+  },
+  {
+    "name": "sabregt2",
+    "price": 18902
+  },
+  {
+    "name": "savestra",
+    "price": 28984
+  },
+  {
+    "name": "schafter2",
+    "price": 28903
+  },
+  {
+    "name": "schafter3",
+    "price": 33450
+  },
+  {
+    "name": "schafter4",
+    "price": 18939
+  },
+  {
+    "name": "schwarzer",
+    "price": 20068
+  },
+  {
+    "name": "sentinel",
+    "price": 42811
+  },
+  {
+    "name": "sentinel2",
+    "price": 34396
+  },
+  {
+    "name": "sentinel3",
+    "price": 31972
+  },
+  {
+    "name": "serrano",
+    "price": 32763
+  },
+  {
+    "name": "stalion",
+    "price": 33638
+  },
+  {
+    "name": "stinger",
+    "price": 28404
+  },
+  {
+    "name": "streiter",
+    "price": 18738
+  },
+  {
+    "name": "sugoi",
+    "price": 16530
+  },
+  {
+    "name": "sultan",
+    "price": 47741
+  },
+  {
+    "name": "sultan2",
+    "price": 33946
+  },
+  {
+    "name": "sultan3",
+    "price": 16225
+  },
+  {
+    "name": "superd",
+    "price": 14097
+  },
+  {
+    "name": "surano",
+    "price": 59673
+  },
+  {
+    "name": "surge",
+    "price": 42386
+  },
+  {
+    "name": "tailgater",
+    "price": 34736
+  },
+  {
+    "name": "tailgater2",
+    "price": 29597
+  },
+  {
+    "name": "tampa",
+    "price": 33960
+  },
+  {
+    "name": "tampa2",
+    "price": 16638
+  },
+  {
+    "name": "toros",
+    "price": 57365
+  },
+  {
+    "name": "tulip",
+    "price": 19896
+  },
+  {
+    "name": "vstr",
+    "price": 43112
+  },
+  {
+    "name": "windsor",
+    "price": 34720
+  },
+  {
+    "name": "windsor2",
+    "price": 29199
+  },
+  {
+    "name": "xls",
+    "price": 30498
+  },
+  {
+    "name": "z190",
+    "price": 32213
+  },
+  {
+    "name": "zion",
+    "price": 14755
+  },
+  {
+    "name": "zion2",
+    "price": 31093
+  },
+  {
+    "name": "zion3",
+    "price": 19115
+  },
+  {
+    "name": "zr350",
+    "price": 29048
+  }
+]
