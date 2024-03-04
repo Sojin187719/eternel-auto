@@ -23,7 +23,7 @@ function buildCarList(item, index) {
     // Ajouter l'image à la carte
     var figure = document.createElement('figure');
     var img = document.createElement('img');
-    img.src = name + '.png'; 
+    img.src = "https://sojin187719.github.io/eternel-auto/data/" + name + '.png'; 
     img.alt = name;    
     img.classList.add('w-full', 'aspect-video');
     figure.appendChild(img);
